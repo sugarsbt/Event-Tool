@@ -12,3 +12,6 @@ However, it will (hopefully!) make event scripting more easier to read and more 
 Also - emphasis on *simple*. This tool was initially made for personal use, so it's more catered to which commands I use most often.
 It does not include the entire command list, but it does let you add custom commands that isn't specifically supported by this tool, such as `advancedMove` and the like.
 
+## How do I use this?
+
+Check out the [detailed documentation]((https://github.com/sugarsbt/Event-Tool/wiki) on how to set up and use this tool!
