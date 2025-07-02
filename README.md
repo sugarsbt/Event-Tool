@@ -14,4 +14,4 @@ It does not include the entire command list, but it does let you add custom comm
 
 ## How do I use this?
 
-Check out the [detailed documentation]((https://github.com/sugarsbt/Event-Tool/wiki) on how to set up and use this tool!
+Check out the [detailed documentation](https://github.com/sugarsbt/Event-Tool/wiki) on how to set up and use this tool!
