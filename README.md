@@ -4,7 +4,7 @@ Sugar's Event Tool for SDV event scripting.
 
 ## What is Sugar's Event Tool?
 
-Event tool is a simple Python tool to make scripting SDV Mod events easier and faster! 
+Event tool is a simple Python tool to make scripting SDV mod events easier and faster! **Disclaimer:** You do need basic understanding of event scripting. This tool simply makes the process more convenient and efficient.
 
 It's not a full-on program, so it won't do much of the work for you, since event scripting takes a lot of creativity.
 However, it will (hopefully!) make event scripting more easier to read and more user-friendly.
